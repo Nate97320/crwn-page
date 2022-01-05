@@ -1,4 +1,4 @@
-const SHOP_DATA = {
+SHOP_DATA = {
   hats: {
     id: 1,
     title: 'Hats',
